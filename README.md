@@ -5,10 +5,10 @@ The following example shows how you use Semihosting to print debug messages to t
 # Usage
 Use the L-Link RTT Client or setup a tenet terminal in your IDE to log the debug messages!
 
-* Terminal Settings:
-HOST:     localhost
-Port:     19021
-Encoding: Cp152
+* Terminal Settings:<br />
+HOST:     localhost<br />
+Port:     19021<br />
+Encoding: Cp152<br />
 
 ## Step 1: Download mbed CLI
 
