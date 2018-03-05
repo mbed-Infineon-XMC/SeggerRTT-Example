@@ -32,7 +32,7 @@ int main() {
     /* Toggle LED1  */
     while (1) {
         led = !led;
-        gdb.printf("Hello Wolrd!\n");
+        gdb.printf("Hello World!\n");
         wait(0.5);
     }
 }
