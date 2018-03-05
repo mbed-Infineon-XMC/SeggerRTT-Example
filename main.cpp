@@ -20,7 +20,7 @@
 
 /******************************************************************** Globals */
 DigitalOut led(LED1);
-SeggerRTT dgb;
+SeggerRTT gdb;
 
 /****************************************************************** Functions */
 
@@ -32,7 +32,7 @@ int main() {
     /* Toggle LED1  */
     while (1) {
         led = !led;
-        dgb.printf("Hello Wolrd!\n");
+        gdb.printf("Hello Wolrd!\n");
         wait(0.5);
     }
 }
