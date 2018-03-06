@@ -3,7 +3,7 @@
 The following example shows how you use Semihosting to print debug messages to the Host.
 
 # Usage
-Use the L-Link RTT Client or setup a tenet terminal in your IDE to log the debug messages!
+Use the J-Link RTT Client or setup a telnet terminal in your IDE to log the debug messages!
 
 * Terminal Settings:<br />
 HOST:     localhost<br />
